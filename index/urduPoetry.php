@@ -29,7 +29,7 @@ include(ROOT_PATH . "../includes/header.php");
                     <p>ثواب آنکھیں ، عذاب آنکھیں</p>
                 </div>
 
-                <a href="urduPoetryPHP/urduPoetry1.html" class="btn btn-default btn-lg">Read More</a>
+                <a href="urduPoetryPHP/urduPoetry1.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -46,7 +46,7 @@ include(ROOT_PATH . "../includes/header.php");
                     <p>اور نہ جانے کب سے ہے </p>
                 </div>
 
-                <a href="urduPoetryPHP/urduPoetry2.html" class="btn btn-default btn-lg">Read More</a>
+                <a href="urduPoetryPHP/urduPoetry2.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -165,7 +165,7 @@ include(ROOT_PATH . "../includes/header.php");
 
             <div class="col-lg-12 text-center">
                 <ul class="pager">
-                    <li class="middle"><a href="../index.html">Home</a>
+                    <li class="middle"><a href="urduPoetry.php">Back to Top</a>
                     </li>
                     <!--<li class="next"><a href="biography2.html">Chapter 6-10 &rarr;</a>-->
                     <!--</li>-->
@@ -181,7 +181,7 @@ include(ROOT_PATH . "../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Bashir Rafiq 2016</p>
+                <p>&copy; <?php echo date("Y"); ?> BASHIR RAFIQ </p>
             </div>
         </div>
     </div>

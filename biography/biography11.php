@@ -4,7 +4,7 @@ require_once("../includes/config.php");
 include(ROOT_PATH . "../includes/header.php");
 ?>
 
-<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="img/indexImg/bismillah.jpeg" width="60%"></div>
+<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="../img/indexImg/bismillah.jpeg" width="60%"></div>
 
 <div class="container">
 
@@ -18,7 +18,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
-                <img class="img-responsive img-border img-full" src="../img/blog/HKM%20III%20100%20BA%20Rafiq.jpg" alt="">
+                <img class="img-responsive img-border img-full" src="../img/biography/HKM%20IV%2020%20in%20India%201991.jpg" alt="">
                 <h2>Chapter 51: 1974 Pakistan Riots
                     <br>
                     <small>October 13, 1968</small>
@@ -26,7 +26,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <p>In 1974 Mr Zulfiqar Ali Bhutto held the reigns of power in his hand. A few years earlier, the Jamaat Ahmadiyya had helped his 'People's Party' in the General Election as it was laid down in their Manifesto and Constitution that religion or faith is a personal matter for every individual and the government had no right to interfere. All other political parties were bitterly opposed to Ahmadiyyat and were not prepared to tolerate </p>
 
 
-                    <a href="../chapterBioPHP/11givingUpSmoking.php" class="btn btn-default btn-lg">Read More</a>
+                    <a href="../chapterBioPHP/51pakistanRiots1974.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -41,7 +41,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/12memorableJourneyToEngland.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/52anAddress.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -55,7 +55,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/13earlyLifeInEngland.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/53educationAndTarbiyyatActivities.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -67,7 +67,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <p>In April 1987, covering the period that I had the privilege to spend close to Chaudhry Muhammad Zafrulla Khan I wrote a book entitled 'Hadhrat Chaudhry Muhammad Zafrulla Khan - A Few Remembrances'. The book had been printed but I had only received a few copies. The remaining copies were still in the press when the Government of Pakistan confiscated all copies and instructed that, apart from me, the owner of the printing press and some </p>
 
 
-                <a href="../chapterBioPHP/14diabetes.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/54mySecondTermInEngland.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -81,7 +81,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                    <a href="../chapterBioPHP/15launchOfMuslimHerald.php" class="btn btn-default btn-lg">Read More</a>
+                    <a href="../chapterBioPHP/55drSaeedAhmadKhan.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -103,13 +103,15 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                    <a href="../chapterBioPHP/15launchOfMuslimHerald.php" class="btn btn-default btn-lg">Read More</a>
+                    <a href="../chapterBioPHP/56endOfStory.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
                 <ul class="pager">
                     <li class="previous"><a href="biography10.php">&larr; Chapter 46-50</a>
+                    </li>
+                    <li class="middle"><a href="biography11.php">Back to Top</a>
                     </li>
                     <li class="next"><a href="../index.php">Home</a>
                     </li>
@@ -125,7 +127,7 @@ include(ROOT_PATH . "../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Bashir Rafiq 2016</p>
+                <p>&copy; <?php echo date("Y"); ?> BASHIR RAFIQ </p>
             </div>
         </div>
     </div>

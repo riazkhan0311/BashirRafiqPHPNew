@@ -4,7 +4,7 @@ require_once("../includes/config.php");
 include(ROOT_PATH . "../includes/header.php");
 ?>
 
-<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="img/indexImg/bismillah.jpeg" width="60%"></div>
+<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="../img/indexImg/bismillah.jpeg" width="60%"></div>
 
 <div class="container">
 
@@ -18,7 +18,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
-                <img class="img-responsive img-border img-full" src="../img/blog/HKM%20III%20100%20BA%20Rafiq.jpg" alt="">
+                <img class="img-responsive img-border img-full" src="../img/biography/HKM%20III%20151%20Mulaqaat.jpg" alt="">
                 <h2>Chapter 21: Meeting Sheikh Abdullah Of Kashmir
                     <br>
                     <small>October 13, 1968</small>
@@ -27,7 +27,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/11givingUpSmoking.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/21meetingSheikhAbdullahOfKashmir.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -40,7 +40,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <p>In 1962 when the former Chief Martial Law Administrator, Field Marshal Muhammad Ayub Khan, the President of Pakistan came to England he stayed in Claridges Hotel. Apart from having sent him a telegram welcoming him on behalf of the Ahmadiyya Jamaat in Britain, a request was made for an audience, to which he kindly agreed and indicated a time for a meeting. According to the program, a delegation consisting of the members of the Jamaat, </p>
 
 
-                <a href="../chapterBioPHP/12memorableJourneyToEngland.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/22meetingPresidentAyubKhanofPakistan.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -53,7 +53,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                    <a href="../chapterBioPHP/13earlyLifeInEngland.php" class="btn btn-default btn-lg">Read More</a>
+                    <a href="../chapterBioPHP/23maulanaYaqoobKhanofWoking.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -66,7 +66,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/14diabetes.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/24constructionOfMahmoodHallComplex.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -79,13 +79,15 @@ include(ROOT_PATH . "../includes/header.php");
                 <p>In 1964 I submitted a proposal to the Centre that the two houses belonging to the Jamaat at 61 and 63 Melrose Road should be demolished and instead a new, attractive and spacious Mission House be built. The Centre approved the proposal and made it a condition that the necessary funds may be borrowed which could be returned in installments. Under instructions from the Centre a 'Building Committee' was constituted of which, </p>
 
 
-                <a href="../chapterBioPHP/15launchOfMuslimHerald.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/25meetingsWithMrKennethCraig.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
                 <ul class="pager">
                     <li class="previous"><a href="biography4.php">&larr; Chapter 16-20</a>
+                    </li>
+                    <li class="middle"><a href="biography5.php">Back to Top</a>
                     </li>
                     <li class="next"><a href="biography6.php">Chapter 26-30 &rarr;</a>
                     </li>
@@ -101,7 +103,7 @@ include(ROOT_PATH . "../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Bashir Rafiq 2016</p>
+                <p>&copy; <?php echo date("Y"); ?> BASHIR RAFIQ </p>
             </div>
         </div>
     </div>

@@ -4,7 +4,7 @@ require_once("../includes/config.php");
 include(ROOT_PATH . "../includes/header.php");
 ?>
 
-<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="img/indexImg/bismillah.jpeg" width="60%"></div>
+<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="../img/indexImg/bismillah.jpeg" width="60%"></div>
 
 <div class="container">
 
@@ -18,14 +18,14 @@ include(ROOT_PATH . "../includes/header.php");
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
-                <img class="img-responsive img-border img-full" src="../img/blog/HKM%20III%20100%20BA%20Rafiq.jpg" alt="">
+                <img class="img-responsive img-border img-full" src="../img/biography/HKM%20IV%2013.jpg" alt="">
                 <h2>Chapter 31: Journey to Kashmir
                     <br>
                     <small>October 13, 1968</small>
                 </h2>
                 <p>In accordance with the instructions from Hadhrat Khalifa tul Masih III, when I was preparing myself to participate in the Annual Convention in Rabwah in December 1977, it occurred to me that since, in the following year an International Conference on 'Deliverance of Jesus from the Cross' was to be held, why not persuade a British Press representative to accompany me to Rabwah. (Further details appear elsewhere). He could, after attending the Conference, </p>
 
-                    <a href="../chapterBioPHP/11givingUpSmoking.php" class="btn btn-default btn-lg">Read More</a>
+                    <a href="../chapterBioPHP/31journeyToKashmir.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -39,7 +39,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/12memorableJourneyToEngland.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/32meetingDrAshiqHusseinBatalvi.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -52,7 +52,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/13earlyLifeInEngland.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/33meetingAbdulQayyumKhanofNWFP.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -66,7 +66,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                    <a href="../chapterBioPHP/14diabetes.php" class="btn btn-default btn-lg">Read More</a>
+                    <a href="../chapterBioPHP/34meetingWithPrinceofWales.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -82,13 +82,15 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/15launchOfMuslimHerald.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/35visitToDeraBabaNanak.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
                 <ul class="pager">
                     <li class="previous"><a href="biography6.php">&larr; Chapter 26-30</a>
+                    </li>
+                    <li class="middle"><a href="biography7.php">Back to Top</a>
                     </li>
                     <li class="next"><a href="biography8.php">Chapter 36-40 &rarr;</a>
                     </li>
@@ -104,7 +106,7 @@ include(ROOT_PATH . "../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Bashir Rafiq 2016</p>
+                <p>&copy; <?php echo date("Y"); ?> BASHIR RAFIQ </p>
             </div>
         </div>
     </div>

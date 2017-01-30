@@ -4,7 +4,7 @@ require_once("../includes/config.php");
 include(ROOT_PATH . "../includes/header.php");
 ?>
 
-<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="img/indexImg/bismillah.jpeg" width="60%"></div>
+<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="../img/indexImg/bismillah.jpeg" width="60%"></div>
 
 <div class="container">
 
@@ -90,7 +90,7 @@ include(ROOT_PATH . "../includes/header.php");
                     <ul class="pager">
                         <li class="previous"><a href="../index.php">&larr; Home</a>
                         </li>
-                        <li class="middle"><a href="../index.php">Home</a>
+                        <li class="middle"><a href="1preface.php">Back to Top</a>
                         </li>
                         <li class="next"><a href="2village.php">Chapter 2 &rarr;</a>
                         </li>
@@ -100,20 +100,6 @@ include(ROOT_PATH . "../includes/header.php");
         </div>
     </div>
 
-    <!--<div class="row">-->
-    <!--<div class="box">-->
-    <!--<div class="col-lg-12">-->
-    <!--<hr>-->
-    <!--<h2 class="intro-text text-center">Beautiful boxes-->
-    <!--<strong>to showcase your content</strong>-->
-    <!--</h2>-->
-    <!--<hr>-->
-    <!--<p>Use as many boxes as you like, and put anything you want in them! They are great for just about anything, the sky's the limit!</p>-->
-    <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>-->
-    <!--</div>-->
-    <!--</div>-->
-    <!--</div>-->
-
 </div>
 <!-- /.container -->
 
@@ -121,7 +107,7 @@ include(ROOT_PATH . "../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Bashir Rafiq 2016</p>
+                <p>&copy; <?php echo date("Y"); ?> BASHIR RAFIQ </p>
             </div>
         </div>
     </div>

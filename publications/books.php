@@ -74,23 +74,23 @@ include(ROOT_PATH . "../includes/header.php");
                 <h2>The Muslim Prayer Book
 
                 </h2>
-                <p>Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+                <p>Coming Soon.</p>
 
 
-                <a href="http://www.reviewofreligions.org/wp-content/pdf-downloads/RR198402.pdf#page=11" target="_blank"  class="btn btn-default btn-lg">Read More</a>
+<!--                <a href="http://www.reviewofreligions.org/wp-content/pdf-downloads/RR198402.pdf#page=11" target="_blank"  class="btn btn-default btn-lg">Read More</a>-->
 
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
 
-                <h2>The Status of Woman in Islam
+                <h2>The Status of Woman in Islam</h2>
 
-                </h2>
-                <p>Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+                    <p>Coming Soon.</p>
 
-                <a href="http://www.reviewofreligions.org/wp-content/pdf-downloads/RR199008.pdf#page=29" target="_blank"  class="btn btn-default btn-lg">Read More</a>
 
-                <hr>
+                    <!--                <a href="http://www.reviewofreligions.org/wp-content/pdf-downloads/RR198402.pdf#page=11" target="_blank"  class="btn btn-default btn-lg">Read More</a>-->
+
+                    <hr>
             </div>
 
             <div class="col-lg-12 text-center">
@@ -98,9 +98,10 @@ include(ROOT_PATH . "../includes/header.php");
                 <h2>From the World Press
 
                 </h2>
-                <p>Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+                <p>Coming Soon.</p>
 
-                <a href="http://www.reviewofreligions.org/wp-content/pdf-downloads/RR198801.pdf#page=47" target="_blank"  class="btn btn-default btn-lg">Read More</a>
+
+                <!--                <a href="http://www.reviewofreligions.org/wp-content/pdf-downloads/RR198402.pdf#page=11" target="_blank"  class="btn btn-default btn-lg">Read More</a>-->
 
                 <hr>
             </div>
@@ -109,44 +110,48 @@ include(ROOT_PATH . "../includes/header.php");
             <h2>Muhammad Zafrulla Khan – Chand Yaadeyn
 
             </h2>
-            <p>Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+                <p>Coming Soon.</p>
 
-            <a href="../friends/abdulAzizDeenSahib.php" target="_blank"  class="btn btn-default btn-lg">Read More</a>
 
-            <hr>
+                <!--                <a href="http://www.reviewofreligions.org/wp-content/pdf-downloads/RR198402.pdf#page=11" target="_blank"  class="btn btn-default btn-lg">Read More</a>-->
+
+                <hr>
             </div>
             <div class="col-lg-12 text-center">
 
             <h2>Shaheedaan e Rah e Wafa
 
             </h2>
-            <p>Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+                <p>Coming Soon.</p>
 
-            <a href="../friends/abdulAzizDeenSahib.php" target="_blank"  class="btn btn-default btn-lg">Read More</a>
 
-            <hr>
+                <!--                <a href="http://www.reviewofreligions.org/wp-content/pdf-downloads/RR198402.pdf#page=11" target="_blank"  class="btn btn-default btn-lg">Read More</a>-->
+
+                <hr>
             </div>
             <div class="col-lg-12 text-center">
 
             <h2>Dars e Ibrat
 
             </h2>
-            <p>Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+                <p>Coming Soon.</p>
 
-            <a href="../friends/abdulAzizDeenSahib.php" target="_blank"  class="btn btn-default btn-lg">Read More</a>
 
-            <hr>
+                <!--                <a href="http://www.reviewofreligions.org/wp-content/pdf-downloads/RR198402.pdf#page=11" target="_blank"  class="btn btn-default btn-lg">Read More</a>-->
+
+                <hr>
             </div>
             <div class="col-lg-12 text-center">
 
             <h2>Safar Naama Deyar e Habeeb
 
             </h2>
-            <p>Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+                <p>Coming Soon.</p>
 
-            <a href="../friends/abdulAzizDeenSahib.php" target="_blank"  class="btn btn-default btn-lg">Read More</a>
 
-            <hr>
+                <!--                <a href="http://www.reviewofreligions.org/wp-content/pdf-downloads/RR198402.pdf#page=11" target="_blank"  class="btn btn-default btn-lg">Read More</a>-->
+
+                <hr>
             </div>
 
         </div>
@@ -159,7 +164,7 @@ include(ROOT_PATH . "../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Bashir Rafiq 2016</p>
+                <p>&copy; <?php echo date("Y"); ?> BASHIR RAFIQ </p>
             </div>
         </div>
     </div>

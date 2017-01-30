@@ -4,7 +4,7 @@ require_once("../includes/config.php");
 include(ROOT_PATH . "../includes/header.php");
 ?>
 
-<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="img/indexImg/bismillah.jpeg" width="60%"></div>
+<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="../img/indexImg/bismillah.jpeg" width="60%"></div>
 
 <div class="container">
 
@@ -18,7 +18,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
-                <img class="img-responsive img-border img-full" src="../img/blog/HKM%20III%20100%20BA%20Rafiq.jpg" alt="">
+                <img class="img-responsive img-border img-full" src="../img/biography/HKM%20IV%2018%20in%20India%201991.jpg" alt="">
                 <h2>Chapter 41: My Umras
                     <br>
                     <small>October 13, 1968</small>
@@ -27,7 +27,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/11givingUpSmoking.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/41myUmras.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -40,7 +40,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <p>When I arrived in England in 1959, with overwhelming intensity, I felt that we should pay particular attention to the education and training of the young and the new converts. At that time English literature, covering the subject of tarbiyyat (training) was almost non-existent. So that they may offer their Salaat in the exact prescribed manner, for familiarizing the young and the new converts there was paramount need for a book covering 'Islamic Salaat'. Covering this particular </p>
 
 
-                <a href="../chapterBioPHP/12memorableJourneyToEngland.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/42myPublications.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -52,7 +52,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <p>There was only a primary school in our village. As the middle school was at a distance of three miles from our village my father decided that for my schooling I should proceed to Peshawar where my uncle (mother's brother) Abdus Salaam Khan lived and where many other relations resided and served. I was fortunate in that around that time, to stay with his elder son, Abdus Salaam Khan, my maternal grandfather Hadhrat Muhammad Ilyas Khan got back to Peshawar from Mastung </p>
 
 
-                    <a href="../chapterBioPHP/13earlyLifeInEngland.php" class="btn btn-default btn-lg">Read More</a>
+                    <a href="../chapterBioPHP/43earlyDaysInPeshawar.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -64,7 +64,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <p>For the first time in my life, during my student days, while in Qadian during a Majlis Irfaan held by Hadhrat Khalifa tul Masih II in the Masjid Mubarak in Qadian, I saw Hadhrat Chaudhry Sahib sitting on a chair next to Hadhrat Khalifa tul Masih as the rest of us sat on the floor of the Mosque.</p>
 
 
-                <a href="../chapterBioPHP/14diabetes.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/44sirMuhammadZafrullaKhan.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -78,13 +78,15 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                    <a href="../chapterBioPHP/15launchOfMuslimHerald.php" class="btn btn-default btn-lg">Read More</a>
+                    <a href="../chapterBioPHP/45meetingGeneralAkhtarHussainMalik.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
                 <ul class="pager">
                     <li class="previous"><a href="biography8.php">&larr; Chapter 36-40</a>
+                    </li>
+                    <li class="middle"><a href="biography9.php">Back to Top</a>
                     </li>
                     <li class="next"><a href="biography10.php">Chapter 46-50 &rarr;</a>
                     </li>
@@ -100,7 +102,7 @@ include(ROOT_PATH . "../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Bashir Rafiq 2016</p>
+                <p>&copy; <?php echo date("Y"); ?> BASHIR RAFIQ </p>
             </div>
         </div>
     </div>

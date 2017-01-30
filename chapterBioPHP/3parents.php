@@ -4,7 +4,7 @@ require_once("../includes/config.php");
 include(ROOT_PATH . "../includes/header.php");
 ?>
 
-<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="img/indexImg/bismillah.jpeg" width="60%"></div>
+<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="../img/indexImg/bismillah.jpeg" width="60%"></div>
 
 <div class="container">
 
@@ -181,7 +181,7 @@ include(ROOT_PATH . "../includes/header.php");
                     <ul class="pager">
                         <li class="previous"><a href="2village.php">&larr; Chapter 2</a>
                         </li>
-                        <li class="middle"><a href="../index.php">Home</a>
+                        <li class="middle"><a href="3parents.php">Back to Top</a>
                         </li>
                         <li class="next"><a href="4fathersBaiat.php">Chapter 4 &rarr;</a>
                         </li>
@@ -198,7 +198,7 @@ include(ROOT_PATH . "../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Bashir Rafiq 2016</p>
+                <p>&copy; <?php echo date("Y"); ?> BASHIR RAFIQ </p>
             </div>
         </div>
     </div>

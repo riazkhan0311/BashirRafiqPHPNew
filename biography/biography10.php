@@ -4,7 +4,7 @@ require_once("../includes/config.php");
 include(ROOT_PATH . "../includes/header.php");
 ?>
 
-<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="img/indexImg/bismillah.jpeg" width="60%"></div>
+<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="../img/indexImg/bismillah.jpeg" width="60%"></div>
 
 <div class="container">
 
@@ -18,7 +18,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
-                <img class="img-responsive img-border img-full" src="../img/blog/HKM%20III%20100%20BA%20Rafiq.jpg" alt="">
+                <img class="img-responsive img-border img-full" src="../img/biography/HKM%20IV%2019%20in%20India%201991.jpg" alt="">
                 <h2>Chapter 46: Dr. Abdus Salam the Nobel Laureate
                     <br>
                     <small>October 13, 1968</small>
@@ -28,7 +28,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/11givingUpSmoking.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/46drAbdulSalamTheNobelLaureate.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -42,7 +42,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/12memorableJourneyToEngland.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/47conferenceDeliveranceOfJesusFromTheCross.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -55,7 +55,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/13earlyLifeInEngland.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/48meetingWithVIPsAndEnvoys.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -68,7 +68,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                    <a href="../chapterBioPHP/14diabetes.php" class="btn btn-default btn-lg">Read More</a>
+                    <a href="../chapterBioPHP/49myColleagues.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -81,13 +81,15 @@ include(ROOT_PATH . "../includes/header.php");
                 <p>From my school days, I have been interested in poetry and literature. Good verses always touched me deeply. Even in my childhood in my village when I heard Pushto poems I was elated. My interest further enhanced when I was at school. In the beginning, I was interested in novels and some concocted stories. While I was at school at Qadian, I did not have access to novels and concocted stories from the library. Therefore, I would save </p>
 
 
-                <a href="../chapterBioPHP/15launchOfMuslimHerald.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/50launchOfUrduLiteracySociety.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
                 <ul class="pager">
                     <li class="previous"><a href="biography9.php">&larr; Chapter 41-45</a>
+                    </li>
+                    <li class="middle"><a href="biography10.php">Back to Top</a>
                     </li>
                     <li class="next"><a href="biography11.php">Chapter 51-56 &rarr;</a>
                     </li>
@@ -103,7 +105,7 @@ include(ROOT_PATH . "../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Bashir Rafiq 2016</p>
+                <p>&copy; <?php echo date("Y"); ?> BASHIR RAFIQ </p>
             </div>
         </div>
     </div>

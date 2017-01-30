@@ -4,7 +4,7 @@ require_once("../includes/config.php");
 include(ROOT_PATH . "../includes/header.php");
 ?>
 
-<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="img/indexImg/bismillah.jpeg" width="60%"></div>
+<div class="bismillah img-responsive text-center hidden-sm hidden-md hidden-lg"><img src="../img/indexImg/bismillah.jpeg" width="60%"></div>
 
 <div class="container">
 
@@ -18,7 +18,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
-                <img class="img-responsive img-border img-full" src="../img/blog/HKM%20III%20100%20BA%20Rafiq.jpg" alt="">
+                <img class="img-responsive img-border img-full" src="../img/biography/HKM%20IV%2017%20UK%20Jamaat%20Mbrs.jpg" alt="">
                 <h2>Chapter 36: Meeting Mian Mumtaz Muhammad Daulatana
                     <br>
                     <small>October 13, 1968</small>
@@ -26,7 +26,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <p>In February 1953, while I was a student in my last year at college agitation against the Ahmadiyya Jamaat erupted all over the Punjab, particularly in Lahore. Primarily the 'Ahraari' Jamaat were responsible for the turmoil. They seemed to have complete support of the Government of the Punjab. A secret pact seemed to have been concluded with Mian Mumtaz Muhammad Khan Daulatana, the then, Chief Minister in the Punjab. Apparently, it had been agreed that </p>
 
 
-                <a href="../chapterBioPHP/11givingUpSmoking.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/36meetingMianMumtazMuhammadDaulatana.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -41,7 +41,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                    <a href="../chapterBioPHP/12memorableJourneyToEngland.php" class="btn btn-default btn-lg">Read More</a>
+                    <a href="../chapterBioPHP/37myVisitToPoland.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -55,7 +55,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/13earlyLifeInEngland.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/38hadhratKhalifaTulMasihIII.php" class="btn btn-default btn-lg">Read More</a>
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
@@ -70,7 +70,7 @@ include(ROOT_PATH . "../includes/header.php");
 
 
 
-                <a href="../chapterBioPHP/14diabetes.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/39spanishVisits.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
@@ -83,13 +83,15 @@ include(ROOT_PATH . "../includes/header.php");
                 <p>My parents were blessed with five daughters and three sons. A brother and a sister passed away when they were five and six years old respectively. My brother was named Bashir Ahmad and my sister was named Mah e Talaat. Naturally, it was a great shock for my parents as two of their children had passed away within a period of forty days. Talaat was the first to go to meet her Maker and Bashir followed her forty days later.</p>
 
 
-                <a href="../chapterBioPHP/15launchOfMuslimHerald.php" class="btn btn-default btn-lg">Read More</a>
+                <a href="../chapterBioPHP/40myBrothersAndSisters.php" class="btn btn-default btn-lg">Read More</a>
 
                 <hr>
             </div>
             <div class="col-lg-12 text-center">
                 <ul class="pager">
                     <li class="previous"><a href="biography7.php">&larr; Chapter 31-35</a>
+                    </li>
+                    <li class="middle"><a href="biography8.php">Back to Top</a>
                     </li>
                     <li class="next"><a href="biography9.php">Chapter 41-45 &rarr;</a>
                     </li>
@@ -105,7 +107,7 @@ include(ROOT_PATH . "../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Bashir Rafiq 2016</p>
+                <p>&copy; <?php echo date("Y"); ?> BASHIR RAFIQ </p>
             </div>
         </div>
     </div>

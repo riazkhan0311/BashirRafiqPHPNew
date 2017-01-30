@@ -69,9 +69,9 @@ include(ROOT_PATH . "../includes/header.php");
 
 <div class="col-lg-12 text-center">
     <ul class="pager">
-        <li class="middle"><a href="../../index.html">Home</a>
+        <li class="middle"><a href="../../index.php">Home</a>
         </li>
-        <li class="middle"><a href="photosMedia.html">Back to Top</a>
+        <li class="middle"><a href="photosMedia.php">Back to Top</a>
         </li>
     </ul>
 </div>
@@ -84,7 +84,7 @@ include(ROOT_PATH . "../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <p>Copyright &copy; Bashir Rafiq 2016</p>
+                <p>&copy; <?php echo date("Y"); ?> BASHIR RAFIQ </p>
             </div>
         </div>
     </div>

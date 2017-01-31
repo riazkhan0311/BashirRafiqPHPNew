@@ -16,7 +16,7 @@ include(ROOT_PATH . "../includes/header.php");
                     <strong>Chapter 4: Fathers Baiat</strong>
                 </h2>
                 <hr>
-                <img class="img-responsive img-border img-left" src="../img/biography/4fathersBaiat/39%20Guests_2.jpg" alt="">
+                <img class="img-responsive img-border img-left" src="../img/indexImg/threeWiseMen.jpg" alt="">
                 <hr class="visible-xs">
                 <div class="chapterContent">
                     <p> In order to enable people to accept His truth, when the Almighty commissions a Messenger, he employs a variety of means. He opens their hearts for the acceptance of truth. On hearing the message, they believe promptly. He show dreams to some and thus directs their attention to the Truth and enables them to believe.</p>

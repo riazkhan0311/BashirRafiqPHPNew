@@ -63,8 +63,8 @@ include(ROOT_PATH . "../includes/header.php");
     <ul class="pager">
         <li class="middle"><a href="index.php">Home</a>
         </li>
-        <li class="middle"><a href="more.php">Back to Top</a>
-        </li>
+<!--        <li class="middle"><a href="more.php">Back to Top</a>-->
+<!--        </li>-->
     </ul>
 </div>
 

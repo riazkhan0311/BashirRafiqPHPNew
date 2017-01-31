@@ -16,7 +16,7 @@ include(ROOT_PATH . "../includes/header.php");
                     <strong>Chapter 3: Parents</strong>
                 </h2>
                 <hr>
-                <img class="img-responsive img-border img-left" src="../img/biography/3parents/HKM%20IV%2005%20Iain%20Adamson%20and%20BA%20Rafiq.jpg" alt="">
+                <img class="img-responsive img-border img-left" src="../img/indexImg/threeWiseMen.jpg" alt="">
                 <hr class="visible-xs">
                 <div class="chapterContent">
                     <p> In 1976, as his Private Secretary, I accompanied Hadhrat Khalifa tul Masih III on his tour of North America. While in Toronto, we were staying at the 'Inn on the Park Hotel', my wife called me from London. Her voice was choked with emotion. She said that she did not know how to convey the terrible news to me while I was on a journey. I insisted and she told me that my father had passed away. I felt as if lightning had fallen straight over my head. I blanked out and the telephone fell from my hand. Naturally, I started crying bitterly. A friend, who was sitting next to me, asked me what had happened. When I told him that my father had died, he barged into Huzoor's room and told him what had happened. Immediately Huzoor came to my room, embraced me, and kept me in his arms for quite awhile. He did his best to console me and said:</p>

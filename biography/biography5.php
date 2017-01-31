@@ -87,8 +87,8 @@ include(ROOT_PATH . "../includes/header.php");
                 <ul class="pager">
                     <li class="previous"><a href="biography4.php">&larr; Chapter 16-20</a>
                     </li>
-                    <li class="middle"><a href="biography5.php">Back to Top</a>
-                    </li>
+<!--                    <li class="middle"><a href="biography5.php">Back to Top</a>-->
+<!--                    </li>-->
                     <li class="next"><a href="biography6.php">Chapter 26-30 &rarr;</a>
                     </li>
                 </ul>

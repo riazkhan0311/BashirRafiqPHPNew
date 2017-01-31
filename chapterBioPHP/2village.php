@@ -16,7 +16,7 @@ include(ROOT_PATH . "../includes/header.php");
                     <strong>Chapter 2: Village</strong>
                 </h2>
                 <hr>
-                <img class="img-responsive img-border img-left" src="../img/biography/2village/15%20Guests_2.jpg" alt="">
+                <img class="img-responsive img-border img-left" src="../img/indexImg/threeWiseMen.jpg" alt="">
                 <hr class="visible-xs">
                 <div class="chapterContent">
                     <p>I recall watching peasants of the village, after a day's hard toil, singing songs in their melodious voices, driving flocks of their animal home, as treasures of my earliest recollections. They would be singing aloud. My village Mohib Banda is situated right in the midst of the agricultural fields. A few miles from my village, impatiently, in turbulent rapid waves, the water of the river Kabul joins the river Sindh at Attok. At sunset, every day, standing on the bank of the river, I would survey the beautiful panorama. On occasion, during moonlit nights, humming a tune, I would watch the reflection of the moon in the waves. Even now, like a movie, these scenes are embedded in my memory. Recollecting those moments, even now, I amuse myself. That was the village where I was born. Although, for education and other pursuits, I had to stay away for long periods, I would invariably spend my summer vacation in the village. I used to enjoy the pure, clean and fragrant environment.</p>

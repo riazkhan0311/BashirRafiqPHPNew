@@ -17,6 +17,19 @@ include(ROOT_PATH . "../includes/header.php");
                 </h2>
                 <hr>
             </div>
+            <div class="col-lg-12">
+                <hr>
+<!--                <h2 class="intro-text text-center">-->
+<!--                </h2>-->
+                <p class="text-center">In this article I would like to talk about some of those of my friends who are no longer in the land of living and have taken their places in the everlasting gardens of the Paradise. I benefited a great deal from them, enjoyed their company and cherish their memories. May they all receive nearness to their Lord and Master, Allah the Almighty.</p>
+
+                <p class="text-center">I will confine myself in this installment to the cherished memories of only those friends whom I had the honour and privilege of working with in the U.K from 1959 to 1979 and from 1985 to date.</p>
+
+                <p class="text-center">Please click on the links below to learns about these friends.</p>
+
+
+                <hr>
+            </div>
             <div class="col-lg-12 text-center">
 
                 <h2>Abdul Aziz Deen
@@ -191,7 +204,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <h2>Maulvi Abdul Karim Sahib (R.I.P)
 
                 </h2>
-                <p>Maulvi Abdul Karim sahib belonged to a very pious Ahmadi family of Pakistan. His father was a companion of the Promised Messiah and was a great scholar of the Ahmadiyya Jamaat. His brother Mauvlvi Muhammad Ahmad Jalil Sahib was my teacher of Hadith in Jamia tul Mobashireen (Missionary Training College). He was also Mufti of the Jamaat and Chairman of the Qadha Board.</p>
+                <p>Maulvi Abdul Karim Sahib belonged to a very pious Ahmadi family of Pakistan. His father was a companion of the Promised Messiah and was a great scholar of the Ahmadiyya Jamaat. His brother Mauvlvi Muhammad Ahmad Jalil Sahib was my teacher of Hadith in Jamia tul Mobashireen (Missionary Training College). He was also Mufti of the Jamaat and Chairman of the Qadha Board.</p>
 
                 <a href="friends/maulviAbdulKarimSahib.php" class="btn btn-default btn-lg">Read More</a>
 
@@ -235,7 +248,7 @@ include(ROOT_PATH . "../includes/header.php");
                 <h2>Muhammad Akram Khan Ghauri Sahib
 
                 </h2>
-                <p>Another friend, Chaudhry Abd ur Rahman, commonly known as A.R. Chaudhry also migrated from East Africa. He was Headmaster of a school in Uganda. On arrival in England, he bought a house near the Mission House. He took up employment in a school but he spent many hours of the day and night serving the Jamaat.</p>
+                <p>Another person, Muhammad Akram Khan Ghauri also migrated from East Africa. He settled in a house that he bought near the mosque and remained engaged in service to the Jamaat. He would visit the Mission House every morning and would help me in my work voluntarily. He was a saintly person and was very humble and righteous.</p>
 
                 <a href="friends/muhammadAkramKhanGhauriSahib.php" class="btn btn-default btn-lg">Read More</a>
 

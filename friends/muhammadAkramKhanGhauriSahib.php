@@ -18,12 +18,9 @@ include(ROOT_PATH . "../includes/header.php");
                 <hr class="visible-xs">
                 <div class="chapterContent">
 
-                    <p>Another friend, Chaudhry Abd ur Rahman, commonly known as A.R. Chaudhry also migrated from East Africa. He was Headmaster of a school in Uganda. On arrival in England, he bought a house near the Mission House. He took up employment in a school but he spent many hours of the day and night serving the Jamaat. In 1960, I started a periodical called "The Muslim Herald'. Chaudhry Sahib was appointed Joint Editor with me. With his assistance, the standard of the articles published in the periodical was further improved. During this period, some special issues were brought out such as: '<strong>European Missions</strong>', '<strong>Christianity</strong>', and '<strong>Hadhrat Abdul Lateef</strong>'.</p>
+                    <p>Another person, Muhammad Akram Khan Ghauri also migrated from East Africa. He settled in a house that he bought near the mosque and remained engaged in service to the Jamaat. He would visit the Mission House every morning and would help me in my work voluntarily. He was a saintly person and was very humble and righteous. One of his great qualities was his hospitality. On one of his visits to London Hazrat Mirza Tahir Ahmad Sahib stayed with him and enjoyed his hospitality. He was devout followers of Hazrat Masih Mauood and had read most of his books. He also translated one of his books into English. May Allah grant him an elevated station in Heaven.</p>
                     <br />
 
-                    <p>He became General Secretary of the Jamaat and until his last day, he remained devoted to the work of the Jamaat. He remained deeply involved in the Jamaat work day and night. His heart and soul were in his desire to serve the Jamaat. To me he was as dear as my own real brother was. His wife, Tahira Chaudhry, taught for many years in English schools but at the same time, she gained distinction in the performance of work for the Jamaat, especially for the British Lajna Ima Ullah. May Allah accept and acknowledge the services of these two.
-
-                    </p>
 
                 </div>
                 <div class="col-lg-12 text-center">

@@ -64,7 +64,7 @@ include(ROOT_PATH . "../includes/header.php");
                         </li>
                         <li class="middle"><a href="19theRotaryClubOfWandsworth.php">Back to Top</a>
                         </li>
-                        <li class="next"><a href="#">Chapter 20 &rarr;</a>
+                        <li class="next"><a href="20tablighInBrighton.php">Chapter 20 &rarr;</a>
                         </li>
                     </ul>
                 </div>

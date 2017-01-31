@@ -8,24 +8,6 @@ include(ROOT_PATH . "../includes/header.php");
 
 <div class="container">
 
-    <!--<div class="row">-->
-        <!--<div class="box">-->
-            <!--<div class="col-lg-12 text-center">-->
-
-                <!--<h2 class="brand-before">-->
-                    <!--<small>Welcome to</small>-->
-                <!--</h2>-->
-                <!--<h1 class="brand-name">Bashir Rafiq's Personal Website</h1>-->
-                <!--<hr class="tagline-divider">-->
-                <!--<h2>-->
-                    <!--<small>-->
-                        <!--<strong>Former Imam of the London Mosque</strong>-->
-                    <!--</small>-->
-                <!--</h2>-->
-            <!--</div>-->
-        <!--</div>-->
-    <!--</div>-->
-
     <div class="row">
         <div class="box">
             <div class="col-lg-12">
@@ -34,7 +16,7 @@ include(ROOT_PATH . "../includes/header.php");
                     <strong>Chapter 1: Preface</strong>
                 </h2>
                 <hr>
-                <img class="img-responsive img-border img-left img-thumbnail" src="../img/biography/1preface/HKM%20III%2075%20Ldn%20Msq.jpg" alt="">
+                <img class="img-responsive img-border img-left" src="../img/indexImg/threeWiseMen.jpg" alt="">
                 <hr class="visible-xs">
                 <div class="chapterContent">
                     <p> My life has not been of a whole string of beads of success and progress or an album of discharge of significant responsibilities. I am fully aware of my weaknesses, my lapses and my sins. I am also fully aware that whatever I have been blessed with has arisen directly from the prayers of my parents, my elders, particularly Hadhrat Chaudhry Muhammad Zafrullah Khan and the Caliphs of Ahmadiyyat. I did not really have a hand in any success that has come my way.</p>

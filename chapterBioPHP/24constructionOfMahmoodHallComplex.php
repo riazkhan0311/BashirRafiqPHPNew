@@ -61,7 +61,7 @@ include(ROOT_PATH . "../includes/header.php");
 
                     <div class="quote">"There is a stipulation to this deal. The fact that I have provided all the expenses incurred in connection with the construction of the new Mission House should not be made public during my lifetime. This is only a gift from me to the Jamaat."</div>
 
-                    <p<>During his lifetime no mention was made of the fact that Mahmood Complex was constructed with the contributions of Hadhrat Chaudhri Sahib.</p>
+                    <p>During his lifetime no mention was made of the fact that Mahmood Complex was constructed with the contributions of Hadhrat Chaudhri Sahib.</p>
 
 
                 </div>

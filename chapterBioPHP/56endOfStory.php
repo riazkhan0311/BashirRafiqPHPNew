@@ -50,7 +50,7 @@ include(ROOT_PATH . "../includes/header.php");
                         </li>
                         <li class="middle"><a href="56endOfStory.php">Back to Top</a>
                         </li>
-                        <li class="next"><a href="../index.php">Home &rarr;</a>
+                        <li class="next"><a href="57myEarlyLifeInEnglandPart1.php">Ch 57 Part 1 &rarr;</a>
                         </li>
                     </ul>
                 </div>

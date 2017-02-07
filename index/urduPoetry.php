@@ -50,38 +50,38 @@ include(ROOT_PATH . "../includes/header.php");
 
                 <hr>
             </div>
-            <!--<div class="col-lg-12 text-center">-->
+            <div class="col-lg-12 text-center">
 
-                <!--<h2>Poem 1-->
+                <h2>My friend B.A Rafiq. Version 1
 
-                <!--</h2>-->
-                <!--<div class="urduPoetry">-->
-                    <!--<p>گلاب آنکھیں ، شراب آنکھیں</p>-->
-                    <!--<p>یہی تو ہیں لاجواب آنکھیں</p>-->
-                    <!--<p>اِنہیں میں الفت ، اِنہیں میں نفرت</p>-->
-                    <!--<p>ثواب آنکھیں ، عذاب آنکھیں</p>-->
-                <!--</div>-->
+                </h2>
+                <div class="urduPoetry">
+                    <p>گلاب آنکھیں ، شراب آنکھیں</p>
+                    <p>یہی تو ہیں لاجواب آنکھیں</p>
+                    <p>اِنہیں میں الفت ، اِنہیں میں نفرت</p>
+                    <p>ثواب آنکھیں ، عذاب آنکھیں</p>
+                </div>
 
-                <!--<a href="../friends/abdulAzizDeenSahib.html" class="btn btn-default btn-lg">Read More</a>-->
+                <a href="urduPoetryPHP/test.php" class="btn btn-default btn-lg">Read More</a>
 
-                <!--<hr>-->
-            <!--</div>-->
-            <!--<div class="col-lg-12 text-center">-->
+                <hr>
+            </div>
+            <div class="col-lg-12 text-center">
 
-                <!--<<h2>Poem 1-->
+                <h2>My friend B.A Rafiq. Version 2
 
-            <!--</h2>-->
-                <!--<div class="urduPoetry">-->
-                    <!--<p>گلاب آنکھیں ، شراب آنکھیں</p>-->
-                    <!--<p>یہی تو ہیں لاجواب آنکھیں</p>-->
-                    <!--<p>اِنہیں میں الفت ، اِنہیں میں نفرت</p>-->
-                    <!--<p>ثواب آنکھیں ، عذاب آنکھیں</p>-->
-                <!--</div>-->
+            </h2>
+                <div class="urduPoetry">
+                    <p>گلاب آنکھیں ، شراب آنکھیں</p>
+                    <p>یہی تو ہیں لاجواب آنکھیں</p>
+                    <p>اِنہیں میں الفت ، اِنہیں میں نفرت</p>
+                    <p>ثواب آنکھیں ، عذاب آنکھیں</p>
+                </div>
 
-                <!--<a href="../friends/abdulAzizDeenSahib.html" class="btn btn-default btn-lg">Read More</a>-->
+                <a href="urduPoetryPHP/test2.php" class="btn btn-default btn-lg">Read More</a>
 
-                <!--<hr>-->
-            <!--</div>-->
+                <hr>
+            </div>
             <!--<div class="col-lg-12 text-center">-->
 
                 <!--<h2>Poem 1-->
